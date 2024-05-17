@@ -84,7 +84,7 @@ int main() {
   printf("\n");
 
   if(i) {
-    printf("vectex      Min. distance from source\n");
+    printf("vertex    Min. distance from source\n");
     for(i=0; i<n; i++) {
       printf("%d         %d\n", i+1, dist[i]);
     }
